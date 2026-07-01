@@ -141,23 +141,9 @@ These biomarkers contributed significantly to predicting personalized drug sensi
 
 ---
 
-# 📂 Repository Structure
 
-```text
-AML-Drug-Sensitivity/
 
-├── data/
-├── notebooks/
-├── preprocessing/
-├── feature_selection/
-├── models/
-├── evaluation/
-├── figures/
-├── requirements.txt
-└── README.md
-```
 
----
 
 # 🚀 Getting Started
 
